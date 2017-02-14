@@ -1,1 +1,2 @@
 This is a bar file. FOS
+This is some more modification.
